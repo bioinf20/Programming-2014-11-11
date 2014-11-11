@@ -6,5 +6,9 @@ Abstract:
 Introduction to Git & Github. Covering basics! Git tutorial!
 test1
 
+<<<<<<< HEAD
 Learnt how to branch and track the branches. Pull and push too!
+=======
+kflgdlfgkjdflgkj blah.
+>>>>>>> 67221b3ab64f4f3ef74f9a8e56fca8242aa4803e
 
