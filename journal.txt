@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Test - title - my first paper - initially created
 Test Test test
+=======
+Title: SP Paper with John
+Author: SP
+>>>>>>> paperJohn
 Introduction to the journal
 Test2 - Methods
 Git tutorial
+From John's branch
 
