@@ -1,9 +1,10 @@
 Title: Introduction to Git & Github
-Author: SP
+Authors: SP, AN
 Date: 11th November 2014
 
 Abstract:
 Introduction to Git & Github. Covering basics! Git tutorial!
+test1
 
 
 
