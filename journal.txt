@@ -5,5 +5,5 @@ Date: 11th November 2014
 Abstract:
 Introduction to Git & Github. Covering basics! Git tutorial!
 
-
+Learnt how to branch and track the branches.
 
