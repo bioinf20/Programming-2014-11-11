@@ -1,4 +1,5 @@
-Test - title
+Test - title - my first paper - initially created
+Test Test test
 Introduction to the journal
 Test2 - Methods
 Git tutorial
