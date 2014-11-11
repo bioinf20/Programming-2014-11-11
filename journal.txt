@@ -1,5 +1,7 @@
-Test - title
+Title: Paper with John
+Author: John, SP
 Introduction to the journal
 Test2 - Methods
 Git tutorial
+From John's branch
 
